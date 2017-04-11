@@ -10,7 +10,6 @@ import AEXML
 import CommandLineKit
 import Dispatch
 import Foundation
-import SwiftyJSON
 import XCGLogger
 
 
